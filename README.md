@@ -7,6 +7,7 @@
 - 📝 I regularly write articles on <https://medium.com/@sarkarsayan198>
 - 📫 How to reach me: <sarkarshayon728@gmail.com>
 
+<img src="https://www.linkedin.com/in/shayonsarkar/">
 
 <!--
 **sayonsarkar/sayonsarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
