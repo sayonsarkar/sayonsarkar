@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: <mailto:sarkarshayon728@gmail.com>
+
+
 <!--
 **sayonsarkar/sayonsarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
