@@ -4,9 +4,8 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: <mailto:sarkarshayon728@gmail.com>
+- 📝 I regularly write articles on <https://medium.com/@sarkarsayan198>
+- 📫 How to reach me: <sarkarshayon728@gmail.com>
 
 
 <!--
