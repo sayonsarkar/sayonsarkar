@@ -19,6 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 📊 GitHub Stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayonsarkar&layout=compact&theme=dark)](https://github.com/sayonsarkar/github-readme-stats)
 
 
